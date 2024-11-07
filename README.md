@@ -9,6 +9,9 @@
 - UseRef Hook
 - Firebase Setup 
 - Deploying our app to Production
+- Create signUp
+- User Singin In
+- Implemented user Store
 
 
 # Features
